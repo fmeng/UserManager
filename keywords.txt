@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For ArduinoPlatformIOLibrary
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+User KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getName KEYWORD2
+getAge KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DEFAULT_NAME LITERAL1
+DEFAULT_AGE LITERAL1
