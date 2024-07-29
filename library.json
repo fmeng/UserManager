@@ -22,7 +22,10 @@
       "README.md"
     ],
     "exclude": [
-      ".DS_Store"
+      ".DS_Store",
+      "src/.DS_Store",
+      "main.cpp",
+      "src/main.cpp"
     ]
   },
   "headers": "UserManager.h",
