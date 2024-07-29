@@ -2,6 +2,7 @@
 A demo for arduino and platformio library
 
 arduino library.properties config
+https://www.arduinolibraries.info/
 https://github.com/arduino/library-registry
 https://arduino.github.io/arduino-cli/1.0/library-specification/#libraryproperties-file-format
 
