@@ -1,5 +1,5 @@
 #######################################
-# Syntax Coloring Map For ArduinoPlatformIOLibrary
+# Syntax Coloring Map For UserManager
 #######################################
 
 #######################################

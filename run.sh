@@ -8,9 +8,9 @@ pio account login
 pio pkg publish --no-interactive
 
 # 删除
-pio pkg unpublish ArduinoPlatformIOLibrary@1.0.0
+pio pkg unpublish UserManager@1.0.0
 
 # 验证是否上传成功
 pio access list
 # https://registry.platformio.org/
-pio pck search ArduinoPlatformIOLibrary
+pio pck search UserManager

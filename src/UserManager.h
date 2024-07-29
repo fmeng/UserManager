@@ -7,8 +7,8 @@
  * @date 2024/07/29
  * @copyright 奶爸DIY Copyright (c) 2024
  */
-#ifndef ARDUINOPLATFORMIOLIBRARY_USER_H
-#define ARDUINOPLATFORMIOLIBRARY_USER_H
+#ifndef USER_MANAGER_USER_H
+#define USER_MANAGER_USER_H
 #include <Arduino.h>
 
 #define DEFAULT_NAME "default_user"
