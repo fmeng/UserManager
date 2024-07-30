@@ -1,5 +1,3 @@
 .pio
 .idea
 .vscode
-# exclude main for library
-src/main*
